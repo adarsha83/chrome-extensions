@@ -1,0 +1,27 @@
+{
+  "name": "pluralsight-video-downloader",
+  "version": "1.0.0",
+  "description": "Downloads pluralsight videos for a user with premium account",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adarsha83/chrome-extensions.git"
+  },
+  "keywords": [
+    "Pluralsight",
+    "Video",
+    "Downloader"
+  ],
+  "author": "Adarsha K S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsha83/chrome-extensions/issues"
+  },
+  "homepage": "https://github.com/adarsha83/chrome-extensions#readme",
+  "dependencies": {
+    "browserify": "^14.4.0"
+  }
+}
