@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/adarsha83/chrome-extensions#readme",
   "dependencies": {
-    "browserify": "^14.4.0"
+    "browserify": "^14.4.0",
+    "browserify-fs": "^1.0.0",
+    "fs": "0.0.1-security",
+    "resolve": "^1.4.0"
   }
 }
